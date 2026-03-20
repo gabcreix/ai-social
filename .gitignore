@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+
+# Variables de entorno (NUNCA subir)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
