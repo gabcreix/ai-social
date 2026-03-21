@@ -3,3 +3,4 @@ feedparser
 supabase
 python-dotenv
 httpx
+anthropic
